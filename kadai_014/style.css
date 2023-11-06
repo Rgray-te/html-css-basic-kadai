@@ -1,0 +1,48 @@
+#roo-html{
+    font-size: 20px;
+}
+
+#root-html{
+    text-align: center;
+}
+
+#google-fonts{
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+#google-fonts{
+    letter-spacing: 1.2em;
+}
+
+#google-fonts{
+    text-shadow: 2px 2px 2px gray ;
+}
+
+#google-fonts{
+    border-bottom: solid 3px rgb(115, 115, 114)
+}
+
+.body{
+    font-family: "Arial", "Meiryo", sans-selif;
+}
+
+.text-skyblue{
+    color: skyblue;
+}
+
+.text-pink{
+    color: rgb(255, 192, 203)
+}
+
+.heading-pink{
+    color: rgb(255, 192, 203)
+}
+
+.heading-skyblue{
+    color: skyblue
+}
+
+#basic > p{
+    font-weight: bold;
+}
